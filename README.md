@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **HOODOGE Website — Navigation** · 2026-10-16  
+  GitHub link added to the header and community links; the top bar now fits small phones.
 - **Sherwood Outlaw — Mobile** · 2026-10-16  
   Mobile play improvements.
 - **Sherwood Outlaw — Shop** · 2026-10-16  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Leaderboard and player record improvements.
 - **Sherwood Outlaw — Progression** · 2026-10-15  
   Progression and collection features added.
-- **Sherwood Outlaw — Card Combat** · 2026-10-15  
-  Combat readability and feedback improvements; new sound set.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
