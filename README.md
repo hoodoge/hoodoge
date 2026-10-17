@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — Art & Polish** · 2026-10-17  
+  HOODOGE now wears the key-art look in battle, a proper gear opens settings from the title screen, and the top bar hints when it has more to show.
 - **HOODOGE Website — Roadmap** · 2026-10-17  
   Roadmap updated with Sherwood Outlaw, coming soon.
 - **HOODOGE Website — Mascot** · 2026-10-17  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Bigger map view with smaller, tidier markers.
 - **Sherwood Outlaw — Help & Links** · 2026-10-17  
   Rewritten How to Play, Home and Community links on the title screen, shop text fixes.
-- **Sherwood Outlaw — Compatibility** · 2026-10-17  
-  Layout now renders the same in Firefox as in Chrome.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
