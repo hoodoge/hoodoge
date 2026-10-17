@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — Progression** · 2026-10-17  
+  A new way to grow your collection: every run adds to your WANTED poster, and one shopkeeper now keeps something special under the counter. Stage characters stand closer to the ground.
 - **Sherwood Outlaw — Art** · 2026-10-17  
   New painted backdrops for the after-battle and treasure screens, and two keepsake icons redrawn to match the rest.
 - **Sherwood Outlaw — Art & Polish** · 2026-10-17  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Roadmap updated with Sherwood Outlaw, coming soon.
 - **HOODOGE Website — Mascot** · 2026-10-17  
   Hoodoge's arrow now flies forward from his bow when you click him.
-- **Sherwood Outlaw — Map** · 2026-10-17  
-  Bigger map view with smaller, tidier markers.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
