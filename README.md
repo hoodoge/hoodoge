@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — Map** · 2026-10-17  
+  Cleaner map icons; tougher encounters are now called Bounties.
 - **Sherwood Outlaw — Holders** · 2026-10-17  
   Free cosmetics for Sherwood Origins holders.
 - **Sherwood Outlaw — Map** · 2026-10-17  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Character select added before each run, with more outlaws on the way.
 - **Sherwood Outlaw — Art** · 2026-10-16  
   Shop scene reworked so everything fits on one screen.
-- **Sherwood Outlaw — Usability** · 2026-10-16  
-  See what you get before you choose in the store and at rest stops; pinch zoom works again on phones.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
