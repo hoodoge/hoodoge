@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — Flow** · 2026-10-17  
+  After a win, picking your card takes you straight back to the map. How to Play now explains the card badges.
 - **Sherwood Outlaw — Map** · 2026-10-17  
   The mid-battle map view is back, and the trail markers are smaller and tighter.
 - **Sherwood Outlaw — Sound** · 2026-10-17  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   The monster introduction now appears at the top of the battle, out of the way of your cards.
 - **Sherwood Outlaw — Wallet** · 2026-10-17  
   Disconnect your wallet right from the Shop or the Treats window.
-- **Sherwood Outlaw — Treats** · 2026-10-17  
-  A Treats window on the title screen: see what you earned, what your wallet holds, and claim with one tap when it qualifies.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
