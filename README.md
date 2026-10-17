@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **HOODOGE Website — Mascot** · 2026-10-17  
+  Hoodoge's arrow now flies forward from his bow when you click him.
 - **Sherwood Outlaw — Map** · 2026-10-17  
   Bigger map view with smaller, tidier markers.
 - **Sherwood Outlaw — Help & Links** · 2026-10-17  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Layout now renders the same in Firefox as in Chrome.
 - **Sherwood Outlaw — Map** · 2026-10-17  
   Cleaner map icons; tougher encounters are now called Bounties.
-- **Sherwood Outlaw — Holders** · 2026-10-17  
-  Free cosmetics for Sherwood Origins holders.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
