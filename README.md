@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — Sound** · 2026-10-17  
+  A full sound pack replaces the code-made tones: every tap, swipe, hit and reward has its own layered sounds, and the music dips under the victory and defeat stings.
 - **Sherwood Outlaw — Battle** · 2026-10-17  
   The monster introduction now appears at the top of the battle, out of the way of your cards.
 - **Sherwood Outlaw — Wallet** · 2026-10-17  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   A Treats window on the title screen: see what you earned, what your wallet holds, and claim with one tap when it qualifies.
 - **Sherwood Outlaw — Treats** · 2026-10-17  
   Treats earned in the game now move onto a wallet only for HOODOGE holders above a set amount or Sherwood Origins NFT owners; everything earned stays safe until then, and How to Play explains the rule.
-- **Sherwood Outlaw — Art** · 2026-10-17  
-  The WANTED poster got its painted look: parchment, lettering, rank seals and a HOODOGE mugshot. The settings gear is easier to spot.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
