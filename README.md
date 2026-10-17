@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — Art** · 2026-10-17  
+  The WANTED poster got its painted look: parchment, lettering, rank seals and a HOODOGE mugshot. The settings gear is easier to spot.
 - **Sherwood Outlaw — Progression** · 2026-10-17  
   A new way to grow your collection: every run adds to your WANTED poster, and one shopkeeper now keeps something special under the counter. Stage characters stand closer to the ground.
 - **Sherwood Outlaw — Art** · 2026-10-17  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   HOODOGE now wears the key-art look in battle, a proper gear opens settings from the title screen, and the top bar hints when it has more to show.
 - **HOODOGE Website — Roadmap** · 2026-10-17  
   Roadmap updated with Sherwood Outlaw, coming soon.
-- **HOODOGE Website — Mascot** · 2026-10-17  
-  Hoodoge's arrow now flies forward from his bow when you click him.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
