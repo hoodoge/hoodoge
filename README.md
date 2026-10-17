@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — Help & Links** · 2026-10-17  
+  Rewritten How to Play, Home and Community links on the title screen, shop text fixes.
 - **Sherwood Outlaw — Compatibility** · 2026-10-17  
   Layout now renders the same in Firefox as in Chrome.
 - **Sherwood Outlaw — Map** · 2026-10-17  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Free cosmetics for Sherwood Origins holders.
 - **Sherwood Outlaw — Map** · 2026-10-17  
   Much longer journeys on a scrolling map, with the balance kept where it was.
-- **Sherwood Outlaw — Characters** · 2026-10-17  
-  Character select added before each run, with more outlaws on the way.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
