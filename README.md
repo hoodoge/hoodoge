@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — Treats** · 2026-10-17  
+  Treats earned in the game now move onto a wallet only for HOODOGE holders above a set amount or Sherwood Origins NFT owners; everything earned stays safe until then, and How to Play explains the rule.
 - **Sherwood Outlaw — Art** · 2026-10-17  
   The WANTED poster got its painted look: parchment, lettering, rank seals and a HOODOGE mugshot. The settings gear is easier to spot.
 - **Sherwood Outlaw — Progression** · 2026-10-17  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   New painted backdrops for the after-battle and treasure screens, and two keepsake icons redrawn to match the rest.
 - **Sherwood Outlaw — Art & Polish** · 2026-10-17  
   HOODOGE now wears the key-art look in battle, a proper gear opens settings from the title screen, and the top bar hints when it has more to show.
-- **HOODOGE Website — Roadmap** · 2026-10-17  
-  Roadmap updated with Sherwood Outlaw, coming soon.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
