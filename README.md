@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — Wallet** · 2026-10-17  
+  Disconnect your wallet right from the Shop or the Treats window.
 - **Sherwood Outlaw — Treats** · 2026-10-17  
   A Treats window on the title screen: see what you earned, what your wallet holds, and claim with one tap when it qualifies.
 - **Sherwood Outlaw — Treats** · 2026-10-17  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   The WANTED poster got its painted look: parchment, lettering, rank seals and a HOODOGE mugshot. The settings gear is easier to spot.
 - **Sherwood Outlaw — Progression** · 2026-10-17  
   A new way to grow your collection: every run adds to your WANTED poster, and one shopkeeper now keeps something special under the counter. Stage characters stand closer to the ground.
-- **Sherwood Outlaw — Art** · 2026-10-17  
-  New painted backdrops for the after-battle and treasure screens, and two keepsake icons redrawn to match the rest.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
