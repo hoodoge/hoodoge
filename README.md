@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — balance & polish** · 2026-10-18  
+  Bigger packs that hit softer, a final fight that calls for help, a trader behind some question marks, and a lighter first load.
 - **Sherwood Outlaw — Progression** · 2026-10-18  
   Rank bundles now climb in power: early ranks round out your deck, the top ranks hold the strongest cards. The big haul after each act's final fight fits on one page again.
 - **Sherwood Outlaw — Balance** · 2026-10-18  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Twenty-three new cards and twelve new trinkets, each with its own art, including cards that belong to two styles at once.
 - **Sherwood Outlaw — Lanes** · 2026-10-18  
   Four deck styles now hold up on their own: Brawler and Chomp got stronger, Zoomies and Guard Dog were trimmed, and the game offers you more of whatever style your deck is leaning toward.
-- **Sherwood Outlaw — Fixes** · 2026-10-18  
-  The battle screen no longer shifts sideways and cuts off its left edge, and tapping the hand right as a fight ends is handled quietly.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
