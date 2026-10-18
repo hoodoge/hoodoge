@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — challenge** · 2026-10-19  
+  Tougher mid-run challengers that each push back on a different habit, plus small readability fixes and an art touch-up.
 - **Sherwood Outlaw — update** · 2026-10-19  
   A long-term challenge for players who keep winning, more varied monster behaviour, map surprises that can now go wrong, a wide balance pass, and a larger, cleaner layout on phones.
 - **Sherwood Outlaw — balance** · 2026-10-18  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   How-to-play in eleven languages, a confirm step before taking a reward card, fewer trinkets per run, and a tougher luck draw for the other side.
 - **Sherwood Outlaw — polish** · 2026-10-18  
   Two full practice runs on the live game, and the trinket shelf now makes room when it fills up.
-- **Sherwood Outlaw — balance & polish** · 2026-10-18  
-  Bigger packs that hit softer, a final fight that calls for help, a trader behind some question marks, and a lighter first load.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
