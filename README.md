@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — Fixes** · 2026-10-18  
+  A run no longer starts silently when the server cannot be reached; a clear message asks you to try again. Rest-stop choices now fit the screen and the bounty strip is readable.
 - **Sherwood Outlaw — Endgame** · 2026-10-18  
   Beating the Bear King now ends with a single draw that adds a luck card to your deck for good, and the score screen shows the Treats you earned, now two per gold coin left.
 - **Sherwood Outlaw — Balance** · 2026-10-18  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Music and sound effect volume sliders, pinch-zoom on the map, and lighter backgrounds for phones that were crashing in Safari.
 - **Sherwood Outlaw — Combat** · 2026-10-18  
   The luck pile now carries over between fights, the drawn card flips open large before the attack lands, and a top-right pill shows cards left out of the whole deck.
-- **Sherwood Outlaw — Progress** · 2026-10-17  
-  Your growth now follows your wallet: connect it on any device and your luck deck, poster and collection are all there, with nothing lost.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
