@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — update** · 2026-10-19  
+  A long-term challenge for players who keep winning, more varied monster behaviour, map surprises that can now go wrong, a wide balance pass, and a larger, cleaner layout on phones.
 - **Sherwood Outlaw — balance** · 2026-10-18  
   Tester feedback pass: bleed is capped and some foes shrug it off, long fights make every monster angrier, standing behind a wall no longer carries over, and almost every card is open from the first run.
 - **Sherwood Outlaw — update** · 2026-10-18  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Two full practice runs on the live game, and the trinket shelf now makes room when it fills up.
 - **Sherwood Outlaw — balance & polish** · 2026-10-18  
   Bigger packs that hit softer, a final fight that calls for help, a trader behind some question marks, and a lighter first load.
-- **Sherwood Outlaw — Progression** · 2026-10-18  
-  Rank bundles now climb in power: early ranks round out your deck, the top ranks hold the strongest cards. The big haul after each act's final fight fits on one page again.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
