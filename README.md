@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — Lanes** · 2026-10-18  
+  Four deck styles now hold up on their own: Brawler and Chomp got stronger, Zoomies and Guard Dog were trimmed, and the game offers you more of whatever style your deck is leaning toward.
 - **Sherwood Outlaw — Fixes** · 2026-10-18  
   The battle screen no longer shifts sideways and cuts off its left edge, and tapping the hand right as a fight ends is handled quietly.
 - **Sherwood Outlaw — Fixes** · 2026-10-18  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Beating the Bear King now ends with a single draw that adds a luck card to your deck for good, and the score screen shows the Treats you earned, now two per gold coin left.
 - **Sherwood Outlaw — Balance** · 2026-10-18  
   The starting luck deck is calmer now: mostly plain cards with a single plus one, so the earned cards from the Bear King matter more. The tutorial also explains the luck card after your first attack.
-- **Sherwood Outlaw — Settings** · 2026-10-18  
-  Music and sound effect volume sliders, pinch-zoom on the map, and lighter backgrounds for phones that were crashing in Safari.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
