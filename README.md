@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — Settings** · 2026-10-18  
+  Music and sound effect volume sliders, pinch-zoom on the map, and lighter backgrounds for phones that were crashing in Safari.
 - **Sherwood Outlaw — Combat** · 2026-10-18  
   The luck pile now carries over between fights, the drawn card flips open large before the attack lands, and a top-right pill shows cards left out of the whole deck.
 - **Sherwood Outlaw — Progress** · 2026-10-17  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Every attack now draws a luck card, for you and for the monsters, and winning the final fight grows your deck for good. Chests let you choose, and a first balance pass evens out the four play styles.
 - **Sherwood Outlaw — Flow** · 2026-10-17  
   After a win, picking your card takes you straight back to the map. How to Play now explains the card badges.
-- **Sherwood Outlaw — Map** · 2026-10-17  
-  The mid-battle map view is back, and the trail markers are smaller and tighter.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
