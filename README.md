@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — Balance** · 2026-10-18  
+  The starting luck deck is calmer now: mostly plain cards with a single plus one, so the earned cards from the Bear King matter more. The tutorial also explains the luck card after your first attack.
 - **Sherwood Outlaw — Settings** · 2026-10-18  
   Music and sound effect volume sliders, pinch-zoom on the map, and lighter backgrounds for phones that were crashing in Safari.
 - **Sherwood Outlaw — Combat** · 2026-10-18  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Your growth now follows your wallet: connect it on any device and your luck deck, poster and collection are all there, with nothing lost.
 - **Sherwood Outlaw — Luck Deck** · 2026-10-17  
   Every attack now draws a luck card, for you and for the monsters, and winning the final fight grows your deck for good. Chests let you choose, and a first balance pass evens out the four play styles.
-- **Sherwood Outlaw — Flow** · 2026-10-17  
-  After a win, picking your card takes you straight back to the map. How to Play now explains the card badges.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
