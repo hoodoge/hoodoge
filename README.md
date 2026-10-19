@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — roster** · 2026-10-20  
+  Three new outlaws step onto the roster with their portraits, marked coming soon while their cards are forged.
 - **Sherwood Outlaw — update** · 2026-10-20  
   Three new outlaws are on the roster for club members, waiting on their portraits, and monsters now roll their luck on every single hit.
 - **Sherwood Outlaw — balance** · 2026-10-20  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Drag a card onto a monster to play it, status chips that are always visible, and a tidier battle stage.
 - **Sherwood Outlaw — balance** · 2026-10-19  
   Another balance pass on cards and trinkets, so strong picks come with a real cost.
-- **Sherwood Outlaw — update** · 2026-10-19  
-  Runs in progress now survive game updates and finish on the rules they started with, plus reward screens that always fit.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
