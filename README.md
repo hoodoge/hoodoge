@@ -13,6 +13,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 
 <!-- devlog:start -->
 - **Sherwood Outlaw — update** · 2026-10-20  
+  The second outlaw is open to Sherwood Club members, and the picker now re-reads a wallet's standing instead of trusting an old sign-in.
+- **Sherwood Outlaw — update** · 2026-10-20  
   Groundwork for the next outlaw: she keeps her distance, the monsters close in, and her cards and icons are in place behind the coming-soon sign.
 - **HOODOGE Website — Mobile** · 2026-10-20  
   The phone menu now scrolls, so every link and the theme switch are reachable on smaller screens.
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Two of the upcoming Sherwood Club outlaws got their redrawn portraits, and the victory screen now fits on short phone screens.
 - **Sherwood Outlaw — update** · 2026-10-20  
   The outlaw picker now shows which newcomers are for club members and lets you connect or disconnect your wallet right there.
-- **Sherwood Outlaw — roster** · 2026-10-20  
-  Three new outlaws step onto the roster with their portraits, marked coming soon while their cards are forged.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
