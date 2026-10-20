@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — update** · 2026-10-21  
+  A card you drag onto a monster or your outlaw turns see-through so you can still see what is underneath.
 - **Sherwood Outlaw — update** · 2026-10-20  
   Story stops that cost or restore health now show your current and maximum health beside the choices.
 - **Sherwood Outlaw — update** · 2026-10-20  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Picking the new outlaw right after connecting a wallet works again.
 - **Sherwood Outlaw — update** · 2026-10-20  
   The outlaw picker shows the new Club outlaw in full colour before a wallet is connected, with the lock on the badge alone.
-- **Sherwood Outlaw — update** · 2026-10-20  
-  The second outlaw is open to Sherwood Club members, and the picker now re-reads a wallet's standing instead of trusting an old sign-in.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
