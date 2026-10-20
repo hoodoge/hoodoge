@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **HOODOGE Website — Mobile** · 2026-10-20  
+  The phone menu now scrolls, so every link and the theme switch are reachable on smaller screens.
 - **Sherwood Outlaw — update** · 2026-10-20  
   Two of the upcoming Sherwood Club outlaws got their redrawn portraits, and the victory screen now fits on short phone screens.
 - **Sherwood Outlaw — update** · 2026-10-20  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Three new outlaws step onto the roster with their portraits, marked coming soon while their cards are forged.
 - **Sherwood Outlaw — update** · 2026-10-20  
   Three new outlaws are on the roster for club members, waiting on their portraits, and monsters now roll their luck on every single hit.
-- **Sherwood Outlaw — balance** · 2026-10-20  
-  One of the trinkets now also keeps you out of surprise fights, so it earns its slot.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
