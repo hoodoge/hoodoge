@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — fix** · 2026-10-20  
+  Picking the new outlaw right after connecting a wallet works again.
 - **Sherwood Outlaw — update** · 2026-10-20  
   The outlaw picker shows the new Club outlaw in full colour before a wallet is connected, with the lock on the badge alone.
 - **Sherwood Outlaw — update** · 2026-10-20  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Groundwork for the next outlaw: she keeps her distance, the monsters close in, and her cards and icons are in place behind the coming-soon sign.
 - **HOODOGE Website — Mobile** · 2026-10-20  
   The phone menu now scrolls, so every link and the theme switch are reachable on smaller screens.
-- **Sherwood Outlaw — update** · 2026-10-20  
-  Two of the upcoming Sherwood Club outlaws got their redrawn portraits, and the victory screen now fits on short phone screens.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
