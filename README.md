@@ -13,6 +13,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 
 <!-- devlog:start -->
 - **Sherwood Outlaw — update** · 2026-10-21  
+  Mystery choices now show their result, card draws are visible, the shopkeeper can be visited again, warnings read clearer, a miss sounds glum, and the collection lists cards per outlaw.
+- **Sherwood Outlaw — update** · 2026-10-21  
   Attack strikes stay on screen a little longer before they fade.
 - **Sherwood Outlaw — update** · 2026-10-21  
   Story stops now unfold over their full illustration, a dropped card sinks into the monster it was aimed at, and the rest of the hand holds still while you aim.
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Every attack card now has its own strike: charges throw up dust, bites drip venom, barks ripple out, and the archer's arrows fly across the field before they land.
 - **Sherwood Outlaw — update** · 2026-10-21  
   Connecting a wallet from a phone browser now keeps the game where it is: the wallet app only approves and signs, then hands you back.
-- **Sherwood Outlaw — update** · 2026-10-21  
-  A card you drag onto a monster or your outlaw turns see-through so you can still see what is underneath.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
