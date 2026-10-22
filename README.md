@@ -13,6 +13,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 
 <!-- devlog:start -->
 - **Sherwood Outlaw — update** · 2026-10-22  
+  The archer's arrows fly straight even mid-hop, and every one of her new cards now has its own strike.
+- **Sherwood Outlaw — update** · 2026-10-22  
   The archer's card pool now matches the hound's, with new shots, footwork and close-quarters tricks, each with its own icon. Gold explains itself and the collection shows cards per outlaw.
 - **Sherwood Outlaw — update** · 2026-10-21  
   Mystery choices now show their result, card draws are visible, the shopkeeper can be visited again, warnings read clearer, a miss sounds glum, and the collection lists cards per outlaw.
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Attack strikes stay on screen a little longer before they fade.
 - **Sherwood Outlaw — update** · 2026-10-21  
   Story stops now unfold over their full illustration, a dropped card sinks into the monster it was aimed at, and the rest of the hand holds still while you aim.
-- **Sherwood Outlaw — update** · 2026-10-21  
-  Every attack card now has its own strike: charges throw up dust, bites drip venom, barks ripple out, and the archer's arrows fly across the field before they land.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
