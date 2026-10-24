@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — update** · 2026-10-24  
+  Home screen redesign: a painted wooden bar with the menu, wallet Treats and run buttons.
 - **Sherwood Outlaw — fix** · 2026-10-24  
   Treats window now scrolls on small screens.
 - **Sherwood Outlaw — update** · 2026-10-24  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   The Shop now opens on top of the outlaw picker when you jump to it from there.
 - **Sherwood Outlaw — release** · 2026-10-24  
   Conker the Bombardier is here: a new outlaw who plants acorn bombs instead of swinging, with a full deck of his own and fresh art. Sherwood Club members can pick him up in the Shop.
-- **Sherwood Outlaw — update** · 2026-10-22  
-  The archer's arrows fly straight even mid-hop, and every one of her new cards now has its own strike.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
