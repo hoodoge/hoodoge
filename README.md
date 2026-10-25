@@ -13,6 +13,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 
 <!-- devlog:start -->
 - **Sherwood Outlaw — update** · 2026-10-25  
+  Fletch tuning: bigger foes now close in one step a turn, and her starting shot hits harder.
+- **Sherwood Outlaw — update** · 2026-10-25  
   Longer maps with more campfires, a bigger heal after each act, and a few card tweaks.
 - **Sherwood Outlaw — update** · 2026-10-25  
   Fletch tweaks: one keepsake reworked and the starter Pin card now pins the pack.
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Engine update: Swift's dives hit harder from height, with a height badge on stage.
 - **Sherwood Outlaw — fix** · 2026-10-24  
   Home screen polish: button labels centred and sized, burn button on one line.
-- **Sherwood Outlaw — update** · 2026-10-24  
-  Home screen redesign: a painted wooden bar with the menu, wallet Treats and run buttons.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
