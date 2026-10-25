@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Sherwood Outlaw — update** · 2026-10-25  
+  Engine update: Swift's dives hit harder from height, with a height badge on stage.
 - **Sherwood Outlaw — fix** · 2026-10-24  
   Home screen polish: button labels centred and sized, burn button on one line.
 - **Sherwood Outlaw — update** · 2026-10-24  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Treats window now scrolls on small screens.
 - **Sherwood Outlaw — update** · 2026-10-24  
   Get Treats inside the game: burn HOODOGE from the Treats window and a new HOW TO GET TREATS guide.
-- **Sherwood Outlaw — update** · 2026-10-24  
-  The Shop now opens on top of the outlaw picker when you jump to it from there.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
