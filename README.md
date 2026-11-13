@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **HOODOGE Website — Treats** · 2026-11-13  
+  Daily treats now go to HOODOGE NFT holders, automatically and with no sign-in.
 - **Sherwood Outlaw — release** · 2026-10-25  
   Swift is out: the fourth outlaw, a sky fighter, joins the Shop for Sherwood Club members.
 - **Sherwood Outlaw — update** · 2026-10-25  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Longer maps with more campfires, a bigger heal after each act, and a few card tweaks.
 - **Sherwood Outlaw — update** · 2026-10-25  
   Fletch tweaks: one keepsake reworked and the starter Pin card now pins the pack.
-- **Sherwood Outlaw — update** · 2026-10-25  
-  Engine update: Swift's dives hit harder from height, with a height badge on stage.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
