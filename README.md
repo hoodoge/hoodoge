@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Pray for Chart — Launch** · 2026-11-16  
+  A shared 3D hall where investors from around the world gather to watch the charts together is now open.
 - **HOODOGE Website — Treats** · 2026-11-13  
   Daily treats now go to HOODOGE NFT holders, automatically and with no sign-in.
 - **Sherwood Outlaw — release** · 2026-10-25  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Fletch tuning: bigger foes now close in one step a turn, and her starting shot hits harder.
 - **Sherwood Outlaw — update** · 2026-10-25  
   Longer maps with more campfires, a bigger heal after each act, and a few card tweaks.
-- **Sherwood Outlaw — update** · 2026-10-25  
-  Fletch tweaks: one keepsake reworked and the starter Pin card now pins the pack.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
