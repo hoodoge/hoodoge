@@ -12,6 +12,8 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
 ## Recent development
 
 <!-- devlog:start -->
+- **Pray for Chart — Interface** · 2026-11-16  
+  Cleaner chart wall and an easier-to-read controls hint.
 - **Pray for Chart — Entry** · 2026-11-16  
   You can now pick your position before entering, and a signed-in character keeps its nickname and hat on every device.
 - **Pray for Chart — Launch** · 2026-11-16  
@@ -20,8 +22,6 @@ An interactive meme ecosystem on Robinhood Chain, built around one very good dog
   Daily treats now go to HOODOGE NFT holders, automatically and with no sign-in.
 - **Sherwood Outlaw — release** · 2026-10-25  
   Swift is out: the fourth outlaw, a sky fighter, joins the Shop for Sherwood Club members.
-- **Sherwood Outlaw — update** · 2026-10-25  
-  Fletch tuning: bigger foes now close in one step a turn, and her starting shot hits harder.
 
 <sub>Full log: [hoodoge-devlog](https://github.com/hoodoge/hoodoge-devlog)</sub>
 <!-- devlog:end -->
